@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1774295413 source:c:\users\mariano\desktop\estruturada\1.1.6\existe.c
+
+1774310183 source:c:\users\mariano\desktop\estruturada\1.1.6\main.c
+	"main.h"
+
+1774300723 c:\users\mariano\desktop\estruturada\1.1.6\main.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"carga.h"
+	"limite.h"
+	"existe.h"
+	"mostrar.h"
+	"facturacion.h"
+
+1774295745 c:\users\mariano\desktop\estruturada\1.1.6\carga.h
+	"main.h"
+
+1774293896 c:\users\mariano\desktop\estruturada\1.1.6\limite.h
+
+1774295413 c:\users\mariano\desktop\estruturada\1.1.6\existe.h
+
+1774310183 c:\users\mariano\desktop\estruturada\1.1.6\mostrar.h
+
+1774311009 source:c:\users\mariano\desktop\estruturada\1.1.6\mostrar.c
+	"main.h"
+
+1774300474 source:c:\users\mariano\desktop\estruturada\1.1.6\limite.c
+	"main.h"
+
+1774298391 source:c:\users\mariano\desktop\estruturada\1.1.6\carga.c
+	"main.h"
+
+1774300612 c:\users\mariano\desktop\estruturada\1.1.6\facturacion.h
+	"main.h"
+
+1774300886 source:c:\users\mariano\desktop\estruturada\1.1.6\facturacion.c
+	"main.h"
+
