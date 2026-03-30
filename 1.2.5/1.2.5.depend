@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1774477241 source:c:\users\mariano\desktop\estruturada\1.2.5\main.c
+	"main.h"
+
+1774475464 c:\users\mariano\desktop\estruturada\1.2.5\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"memoria.h"
+	"alquiler.h"
+	"mostrar.h"
+
+1774463431 c:\users\mariano\desktop\estruturada\1.2.5\memoria.h
+
+1774476578 source:c:\users\mariano\desktop\estruturada\1.2.5\memoria.c
+	"main.h"
+
+1774465452 c:\users\mariano\desktop\estruturada\1.2.5\alquiler.h
+
+1774477975 source:c:\users\mariano\desktop\estruturada\1.2.5\alquiler.c
+	"main.h"
+
+1774478699 source:c:\users\mariano\desktop\estruturada\1.2.5\mostrar.c
+	"main.h"
+
+1774475362 c:\users\mariano\desktop\estruturada\1.2.5\mostrar.h
+
