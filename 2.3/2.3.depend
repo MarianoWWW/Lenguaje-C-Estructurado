@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1774797968 source:c:\users\mariano\desktop\estruturada\2.3\main.c
+	"main.h"
+
+1774799414 c:\users\mariano\desktop\estruturada\2.3\main.h
+	<stdio.h>
+	<stdlib.h>
+	"ingreso.h"
+	"Carga_Numeros.h"
+	"resultado.h"
+	"informe_promo.h"
+
+1774751597 c:\users\mariano\desktop\estruturada\2.3\ingreso.h
+
+1774797420 c:\users\mariano\desktop\estruturada\2.3\carga_numeros.h
+
+1774798245 source:c:\users\mariano\desktop\estruturada\2.3\carga_numeros.c
+	"main.h"
+
+1774800276 source:c:\users\mariano\desktop\estruturada\2.3\ingreso.c
+	"main.h"
+
+1774797797 c:\users\mariano\desktop\estruturada\2.3\resultado.h
+
+1774799414 source:c:\users\mariano\desktop\estruturada\2.3\resultado.c
+	"main.h"
+
+1774799414 c:\users\mariano\desktop\estruturada\2.3\informe_promo.h
+
+1774800461 source:c:\users\mariano\desktop\estruturada\2.3\informe_promo.c
+	"main.h"
+
