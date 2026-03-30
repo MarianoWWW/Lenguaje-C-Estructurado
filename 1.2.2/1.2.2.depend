@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1774359276 source:c:\users\mariano\desktop\estruturada\1.2.2\main.c
+	"main.h"
+
+1774358789 c:\users\mariano\desktop\estruturada\1.2.2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"enter.h"
+
+1774358788 c:\users\mariano\desktop\estruturada\1.2.2\enter.h
+
+1774358920 source:c:\users\mariano\desktop\estruturada\1.2.2\enter.c
+
