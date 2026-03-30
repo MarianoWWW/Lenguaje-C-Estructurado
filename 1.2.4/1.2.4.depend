@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1774457364 source:c:\users\mariano\desktop\estruturada\1.2.4\main.c
+	"main.h"
+
+1774457364 c:\users\mariano\desktop\estruturada\1.2.4\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carga.h"
+	"codigo.h"
+	"existe.h"
+	"ventas.h"
+	"enter.h"
+	"mostrar.h"
+
+1774399319 c:\users\mariano\desktop\estruturada\1.2.4\carga.h
+
+1774399092 c:\users\mariano\desktop\estruturada\1.2.4\codigo.h
+
+1774454225 source:c:\users\mariano\desktop\estruturada\1.2.4\carga.c
+	"main.h"
+
+1774452739 c:\users\mariano\desktop\estruturada\1.2.4\existe.h
+
+1774460556 source:c:\users\mariano\desktop\estruturada\1.2.4\codigo.c
+	"main.h"
+
+1774452747 source:c:\users\mariano\desktop\estruturada\1.2.4\existe.c
+	"main.h"
+
+1774452159 source:c:\users\mariano\desktop\estruturada\1.2.4\enter.c
+	"main.h"
+
+1774455687 c:\users\mariano\desktop\estruturada\1.2.4\ventas.h
+
+1774452014 c:\users\mariano\desktop\estruturada\1.2.4\enter.h
+
+1774458913 source:c:\users\mariano\desktop\estruturada\1.2.4\ventas.c
+	"main.h"
+
+1774457364 c:\users\mariano\desktop\estruturada\1.2.4\mostrar.h
+
+1774460556 source:c:\users\mariano\desktop\estruturada\1.2.4\mostrar.c
+	"main.h"
+
