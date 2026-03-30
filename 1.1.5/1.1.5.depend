@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1774281494 source:c:\users\mariano\desktop\estruturada\1.1.5\main.c
+	"main.h"
+
+1774290954 c:\users\mariano\desktop\estruturada\1.1.5\main.h
+	<stdio.h>
+	<stdlib.h>
+	"carga.h"
+	"valida.h"
+	"existe.h"
+	"mostrar.h"
+	"cargaVenta.h"
+
+1774286581 c:\users\mariano\desktop\estruturada\1.1.5\carga.h
+
+1774286692 source:c:\users\mariano\desktop\estruturada\1.1.5\carga.c
+	"main.h"
+
+1774286535 c:\users\mariano\desktop\estruturada\1.1.5\valida.h
+
+1774278198 source:c:\users\mariano\desktop\estruturada\1.1.5\valida.c
+	"main.h"
+
+1774287225 source:c:\users\mariano\desktop\estruturada\1.1.5\existe.c
+
+1774279132 c:\users\mariano\desktop\estruturada\1.1.5\existe.h
+
+1774277183 c:\users\mariano\desktop\estruturada\1.1.5\mostrar.h
+
+1774290455 source:c:\users\mariano\desktop\estruturada\1.1.5\mostrar.c
+	"main.h"
+
+1774281580 c:\users\mariano\desktop\estruturada\1.1.5\cargaventa.h
+
+1774289402 source:c:\users\mariano\desktop\estruturada\1.1.5\cargaventa.c
+	"main.h"
+
