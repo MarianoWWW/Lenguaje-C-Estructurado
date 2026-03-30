@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1774367949 source:c:\users\mariano\desktop\estruturada\1.2.3\main.c
+	"main.h"
+
+1774382803 c:\users\mariano\desktop\estruturada\1.2.3\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carga.h"
+	"mostrar.h"
+	"enter.h"
+	"nombre.h"
+
+1774368041 c:\users\mariano\desktop\estruturada\1.2.3\carga.h
+
+1774367949 c:\users\mariano\desktop\estruturada\1.2.3\mostrar.h
+
+1774387817 source:c:\users\mariano\desktop\estruturada\1.2.3\mostrar.c
+	"main.h"
+
+1774387801 source:c:\users\mariano\desktop\estruturada\1.2.3\carga.c
+	"main.h"
+
+1774385079 c:\users\mariano\desktop\estruturada\1.2.3\enter.h
+
+1774385079 source:c:\users\mariano\desktop\estruturada\1.2.3\enter.c
+	"main.h"
+
+1774384415 c:\users\mariano\desktop\estruturada\1.2.3\nombre.h
+
+1774386916 source:c:\users\mariano\desktop\estruturada\1.2.3\nombre.c
+	"main.h"
+
