@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1774485581 source:c:\users\mariano\desktop\estruturada\1.2.6\ingresa.c
+	"main.h"
+
+1774565783 c:\users\mariano\desktop\estruturada\1.2.6\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ingresa.h"
+	"adivina.h"
+	"dibujo.h"
+	"duplicada.h"
+
+1774482279 c:\users\mariano\desktop\estruturada\1.2.6\ingresa.h
+
+1774559727 source:c:\users\mariano\desktop\estruturada\1.2.6\main.c
+	"main.h"
+
+1774483781 c:\users\mariano\desktop\estruturada\1.2.6\adivina.h
+
+1774568630 source:c:\users\mariano\desktop\estruturada\1.2.6\adivina.c
+	"main.h"
+
+1774561358 c:\users\mariano\desktop\estruturada\1.2.6\dibujo.h
+
+1774564536 source:c:\users\mariano\desktop\estruturada\1.2.6\dibujo.c
+	"main.h"
+
+1774565783 c:\users\mariano\desktop\estruturada\1.2.6\duplicada.h
+
+1774565783 source:c:\users\mariano\desktop\estruturada\1.2.6\duplicada.c
+	"main.h"
+
