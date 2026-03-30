@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1774689647 source:c:\users\mariano\desktop\estruturada\2.1\main.c
+	"main.h"
+
+1774689647 c:\users\mariano\desktop\estruturada\2.1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresa.h"
+	"codigo.h"
+	"enter.h"
+	"repetido.h"
+	"ventas.h"
+	"mostrar.h"
+	"resolver_a.h"
+
+1774691970 source:c:\users\mariano\desktop\estruturada\2.1\codigo.c
+	"main.h"
+
+1774667633 c:\users\mariano\desktop\estruturada\2.1\ingresa.h
+
+1774667263 c:\users\mariano\desktop\estruturada\2.1\codigo.h
+
+1774667263 c:\users\mariano\desktop\estruturada\2.1\enter.h
+
+1774667263 c:\users\mariano\desktop\estruturada\2.1\repetido.h
+
+1774667263 source:c:\users\mariano\desktop\estruturada\2.1\repetido.c
+	"main.h"
+
+1774668427 source:c:\users\mariano\desktop\estruturada\2.1\enter.c
+	"main.h"
+
+1774692221 source:c:\users\mariano\desktop\estruturada\2.1\ingresa.c
+	"main.h"
+
+1774682357 c:\users\mariano\desktop\estruturada\2.1\ventas.h
+
+1774692612 source:c:\users\mariano\desktop\estruturada\2.1\ventas.c
+	"main.h"
+
+1774691159 c:\users\mariano\desktop\estruturada\2.1\mostrar.h
+
+1774692868 source:c:\users\mariano\desktop\estruturada\2.1\mostrar.c
+	"main.h"
+
+1774689647 c:\users\mariano\desktop\estruturada\2.1\resolver_a.h
+
+1774691159 source:c:\users\mariano\desktop\estruturada\2.1\resolver_a.c
+	"main.h"
+
