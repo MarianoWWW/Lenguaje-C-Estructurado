@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1774819387 source:c:\users\mariano\desktop\estruturada\2.4\limite.c
+	"main.h"
+
+1774835364 c:\users\mariano\desktop\estruturada\2.4\main.h
+	<stdio.h>
+	<stdlib.h>
+	"carga.h"
+	"entrar.h"
+	"limite.h"
+	"duplicado.h"
+	"ventas.h"
+	"informe.h"
+
+1774815651 c:\users\mariano\desktop\estruturada\2.4\carga.h
+
+1774819387 c:\users\mariano\desktop\estruturada\2.4\entrar.h
+
+1774819387 c:\users\mariano\desktop\estruturada\2.4\limite.h
+
+1774835364 source:c:\users\mariano\desktop\estruturada\2.4\main.c
+	"main.h"
+
+1774822380 source:c:\users\mariano\desktop\estruturada\2.4\carga.c
+	"main.h"
+
+1774820151 source:c:\users\mariano\desktop\estruturada\2.4\entrar.c
+	"main.h"
+
+1774822143 c:\users\mariano\desktop\estruturada\2.4\duplicado.h
+
+1774822143 source:c:\users\mariano\desktop\estruturada\2.4\duplicado.c
+	"main.h"
+
+1774829189 c:\users\mariano\desktop\estruturada\2.4\ventas.h
+
+1774839164 source:c:\users\mariano\desktop\estruturada\2.4\ventas.c
+	"main.h"
+
+1774835364 c:\users\mariano\desktop\estruturada\2.4\informe.h
+
+1774839951 source:c:\users\mariano\desktop\estruturada\2.4\informe.c
+	"main.h"
+
