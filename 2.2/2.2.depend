@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1774748356 source:c:\users\mariano\desktop\estruturada\2.2\busqueda_medi.c
+	"main.h"
+
+1774746589 source:c:\users\mariano\desktop\estruturada\2.2\informe.c
+	"main.h"
+
+1774744986 source:c:\users\mariano\desktop\estruturada\2.2\codigo.c
+	"main.h"
+
+1774748356 c:\users\mariano\desktop\estruturada\2.2\main.h
+	<stdio.h>
+	<stdlib.h>
+	"busqueda_medi.h"
+	"informe.h"
+	"ingreso.h"
+	"repetido.h"
+	"codigo.h"
+
+1774746126 c:\users\mariano\desktop\estruturada\2.2\busqueda_medi.h
+
+1774746126 c:\users\mariano\desktop\estruturada\2.2\informe.h
+
+1774744439 c:\users\mariano\desktop\estruturada\2.2\ingreso.h
+
+1774744439 c:\users\mariano\desktop\estruturada\2.2\repetido.h
+
+1774748356 source:c:\users\mariano\desktop\estruturada\2.2\ingreso.c
+	"main.h"
+
+1774744439 source:c:\users\mariano\desktop\estruturada\2.2\repetido.c
+	"main.h"
+
+1774748356 source:c:\users\mariano\desktop\estruturada\2.2\main.c
+	"main.h"
+
+1774744611 c:\users\mariano\desktop\estruturada\2.2\codigo.h
+
