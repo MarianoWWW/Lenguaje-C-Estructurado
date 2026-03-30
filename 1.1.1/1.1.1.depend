@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774126450 source:c:\users\mariano\desktop\estruturada\1.1.1\main.c
+	"main.h"
+
+1774122315 c:\users\mariano\desktop\estruturada\1.1.1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
