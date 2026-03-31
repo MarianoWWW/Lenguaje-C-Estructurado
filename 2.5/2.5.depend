@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1774914995 source:c:\users\mariano\desktop\estruturada\2.5\main.c
+	"main.h"
+
+1774917041 c:\users\mariano\desktop\estruturada\2.5\main.h
+	<stdio.h>
+	<stdlib.h>
+	"puntoB.h"
+	"puntoD.h"
+	"puntoE.h"
+	"puntoG.h"
+	"puntoH_e_I.h"
+
+1774913310 source:c:\users\mariano\desktop\estruturada\2.5\puntob.c
+	"main.h"
+
+1774913607 source:c:\users\mariano\desktop\estruturada\2.5\puntod.c
+	"main.h"
+
+1774916140 source:c:\users\mariano\desktop\estruturada\2.5\puntoe.c
+	"main.h"
+
+1774913310 c:\users\mariano\desktop\estruturada\2.5\puntob.h
+
+1774913563 c:\users\mariano\desktop\estruturada\2.5\puntod.h
+
+1774914972 c:\users\mariano\desktop\estruturada\2.5\puntoe.h
+
+1774917397 c:\users\mariano\desktop\estruturada\2.5\puntog.h
+
+1774917397 c:\users\mariano\desktop\estruturada\2.5\puntoh_e_i.h
+
+1774917232 source:c:\users\mariano\desktop\estruturada\2.5\puntoh_e_i.c
+	"main.h"
+
+1774917702 source:c:\users\mariano\desktop\estruturada\2.5\puntog.c
+	"main.h"
+
