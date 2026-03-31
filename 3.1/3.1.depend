@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1774959117 source:c:\users\mariano\desktop\estruturada\3.1\limite.c
+	"main.h"
+
+1774960752 c:\users\mariano\desktop\estruturada\3.1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"limite.h"
+	"lectura.h"
+
+1774959117 c:\users\mariano\desktop\estruturada\3.1\limite.h
+
+1774963132 source:c:\users\mariano\desktop\estruturada\3.1\main.c
+	"main.h"
+
+1774962685 source:c:\users\mariano\desktop\estruturada\3.1\lectura.c
+	"main.h"
+
+1774960849 c:\users\mariano\desktop\estruturada\3.1\lectura.h
+
