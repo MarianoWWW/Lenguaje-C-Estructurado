@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1775015305 source:c:\users\mariano\desktop\estruturada\5.1\codigo.c
+	"main.h"
+
+1775014321 c:\users\mariano\desktop\estruturada\5.1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"descripcion.h"
+	"codigo.h"
+	"eli_enter.h"
+
+1775014321 c:\users\mariano\desktop\estruturada\5.1\descripcion.h
+
+1775014338 c:\users\mariano\desktop\estruturada\5.1\codigo.h
+
+1775014321 c:\users\mariano\desktop\estruturada\5.1\eli_enter.h
+
+1775015505 source:c:\users\mariano\desktop\estruturada\5.1\descripcion.c
+	"main.h"
+
+1775014321 source:c:\users\mariano\desktop\estruturada\5.1\eli_enter.c
+	"main.h"
+
+1775015305 source:c:\users\mariano\desktop\estruturada\5.1\main.c
+	"main.h"
+
