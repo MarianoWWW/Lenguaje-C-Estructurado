@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776520105 source:c:\users\mariano\desktop\estruturada\5.3\funciones.c
+
+1776526181 source:c:\users\mariano\desktop\estruturada\5.3\main.c
+	"funciones.h"
+
+1776524733 c:\users\mariano\desktop\estruturada\5.3\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
